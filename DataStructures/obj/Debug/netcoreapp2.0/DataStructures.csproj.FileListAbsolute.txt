@@ -3,7 +3,6 @@ E:\Workspace\DataStructures\DataStructures\bin\Debug\netcoreapp2.0\DataStructure
 E:\Workspace\DataStructures\DataStructures\bin\Debug\netcoreapp2.0\DataStructures.runtimeconfig.dev.json
 E:\Workspace\DataStructures\DataStructures\bin\Debug\netcoreapp2.0\DataStructures.dll
 E:\Workspace\DataStructures\DataStructures\bin\Debug\netcoreapp2.0\DataStructures.pdb
-E:\Workspace\DataStructures\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.csprojResolveAssemblyReference.cache
 E:\Workspace\DataStructures\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.csproj.CoreCompileInputs.cache
 E:\Workspace\DataStructures\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.AssemblyInfoInputs.cache
 E:\Workspace\DataStructures\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.AssemblyInfo.cs
